@@ -2,22 +2,26 @@ body {
     background-color: hotpink;
 }
 div{
-    background-color: pink;
+    background: pink;
+
 }
 h1 {
     color: white;
     text-align: center;
+    font-family: cursive;
 }
 h2 {
     color: white;
     text-align: left;
+    font-family: cursive;
 }
 h3 {
     color: white;
-    text-align: right;
+    text-align: left;
+    font-family: cursive;
 }
 p {
-    font-family: verdana, serif;
+    font-family: cursive;
     font-size: 20px;
 }
 
